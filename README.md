@@ -4,7 +4,7 @@ _Mis imprescindibles de software (programas y plugins)_
 
 ## Navegador
 * uBlock-Origin: https://ublockorigin.com/es
-* Keepa: https://keepa.com/#!discuss/
+* Keepa: https://keepa.com/#!addon
 * SponsorBlock: https://sponsor.ajay.app/
 
 ## Utilidades
