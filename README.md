@@ -25,4 +25,3 @@ Keepa: https://keepa.com/#!discuss/
 * Tabnine: https://www.tabnine.com/install/vscode
 * Material Icon Theme: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 * Prettier: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-* 
