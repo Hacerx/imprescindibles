@@ -3,7 +3,7 @@
 _Mis imprescindibles de software (programas y plugins)_
 
 ## Navegador
-* UBlock-Origin: https://ublockorigin.com/es
+* uBlock-Origin: https://ublockorigin.com/es
 * Keepa: https://keepa.com/#!discuss/
 
 ## Utilidades
