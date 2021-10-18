@@ -5,6 +5,7 @@ _Mis imprescindibles de software (programas y plugins)_
 ## Navegador
 * uBlock-Origin: https://ublockorigin.com/es
 * Keepa: https://keepa.com/#!discuss/
+* SponsorBlock: https://sponsor.ajay.app/
 
 ## Utilidades
 * VLC: https://www.videolan.org/vlc/index.es.html
